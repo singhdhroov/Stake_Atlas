@@ -3,7 +3,7 @@ import { ReactDOM } from "react-dom";
 
 function Header() {
   return (
-    <div>
+    <div className="header">
       <nav className="sticky-top navbar navbar-expand-lg">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
